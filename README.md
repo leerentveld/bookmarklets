@@ -14,10 +14,7 @@ elk `.js`-bestand een bookmarklet:
 2. Open <https://chriszarate.github.io/bookmarkleter/>.
 3. Vul bij **Bookmarklet name** een duidelijke titel in, bijvoorbeeld
    `ZwiftBikes Garage`.
-4. Plak de JavaScript in het tekstveld. Het werkt ook als de `javascript:` aan
-   het begin blijft staan, maar haal die prefix er voor de zekerheid weg:
-   Bookmarkleter zet er zelf een op, en zonder dubbele prefix blijft het
-   resultaat een schone IIFE.
+4. Plak de JavaScript in het tekstveld.
 5. Sleep de link rechts uit de **Bookmarklet**-sectie naar je bookmarksbalk.
 6. Open de pagina waarop de bookmarklet hoort en klik op je bookmark.
 
